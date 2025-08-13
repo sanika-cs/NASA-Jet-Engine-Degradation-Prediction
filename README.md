@@ -56,15 +56,3 @@ The results are visualized through an **interactive Streamlit dashboard**.
 
 ---
 
-##  Installation & Running Locally
-
-```bash
-# Clone the repo
-git clone https://github.com/<sanika-cs>/nasa-rul-prediction.git
-cd nasa-rul-prediction
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Streamlit app
-streamlit run app.py
