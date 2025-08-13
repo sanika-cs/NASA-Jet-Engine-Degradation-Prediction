@@ -36,7 +36,7 @@ The results are visualized through an **interactive Streamlit dashboard**.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Language:** Python   
 - **Libraries:**  
@@ -47,7 +47,7 @@ The results are visualized through an **interactive Streamlit dashboard**.
 
 ---
 
-## 📈 Model Performance (Example)
+##  Model Performance (Example)
 
 | Model       | Test RMSE | Test MAE | R² Score |
 |-------------|----------:|---------:|---------:|
@@ -56,7 +56,7 @@ The results are visualized through an **interactive Streamlit dashboard**.
 
 ---
 
-## 📦 Installation & Running Locally
+##  Installation & Running Locally
 
 ```bash
 # Clone the repo
